@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="feeding">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D99ADB"/>
+      <stop offset="1" stop-color="#E8ACC7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g3)"/>
+  <circle cx="983.9999999999999" cy="180" r="192" fill="#ffffff" opacity="0.22"/>
+  <circle cx="192" cy="738" r="240" fill="#ffffff" opacity="0.16"/>
+  <g opacity="0.5"><g transform="translate(240 216) scale(1.3333333333333333)"><path d="M-70 30 a34 34 0 0 1 6 -66 a44 44 0 0 1 84 -6 a30 30 0 0 1 44 28 a26 26 0 0 1 -8 44 Z" fill="#ffffff"/></g></g>
+  <g opacity="0.55"><path transform="translate(960 666) scale(0.8571428571428571)" d="M0 -60 L18 -18 L62 -18 L26 10 L40 54 L0 28 L-40 54 L-26 10 L-62 -18 L-18 -18 Z" fill="#ffffff"/></g>
+  <g transform="translate(600 450)">
+    <circle r="336.00000000000006" fill="#ffffff" opacity="0.9"/>
+    <g transform="translate(0 0) scale(1.411764705882353)">
+        <rect x="-40" y="-20" width="80" height="150" rx="34" fill="none" stroke="#7FB3DF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="-22" y="-70" width="44" height="40" rx="12" fill="none" stroke="#7FB3DF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="-22" y1="-88" x2="22" y2="-88" fill="none" stroke="#7FB3DF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="-18" y1="40" x2="18" y2="40" fill="#7FB3DF"/>
+      </g>
+  </g>
+</svg>
